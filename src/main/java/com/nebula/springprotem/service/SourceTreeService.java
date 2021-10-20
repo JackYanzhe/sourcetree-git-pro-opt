@@ -17,6 +17,7 @@ public class SourceTreeService {
 		for (int i = 0; i < 30; i++) {
 			System.out.println("循环次数："+i);
 		}
+		System.out.println("======输出=======");
 	}
 	
 }
