@@ -26,4 +26,7 @@ public class SourceTreeService {
 		//yz分支新加代码
 	}
 	
+	public void test3() throws Exception {
+		//dev分支处测试
+	}
 }
