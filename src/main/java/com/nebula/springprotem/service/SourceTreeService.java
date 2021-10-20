@@ -1,5 +1,6 @@
 package com.nebula.springprotem.service;
 
+
 public class SourceTreeService {
 
 	/**
@@ -19,6 +20,10 @@ public class SourceTreeService {
 		}
 		System.out.println("yz分支代码修改");
 		System.out.println("dev分支代码提交");
+	}
+	
+	public void test1() throws Exception {
+		//yz分支新加代码
 	}
 	
 }
