@@ -30,4 +30,9 @@ public class SourceTreeService {
 	public void test3() throws Exception {
 		//dev分支处测试
 	}
+	
+	
+	public void test4() throws Exception {
+		//yz新加
+	}
 }
