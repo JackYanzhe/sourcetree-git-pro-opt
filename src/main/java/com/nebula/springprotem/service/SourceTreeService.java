@@ -12,5 +12,8 @@ public class SourceTreeService {
 	 * 通用分支上修改
 	 * 回滚操作测试
 	 */
+	public static void main(String[] args) {
+		1/0
+	}
 	
 }
