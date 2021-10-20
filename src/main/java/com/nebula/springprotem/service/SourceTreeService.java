@@ -17,8 +17,8 @@ public class SourceTreeService {
 		for (int i = 0; i < 30; i++) {
 			System.out.println("循环次数："+i);
 		}
-		System.out.println("dev分支代码修改");
 		System.out.println("yz分支代码修改");
+		System.out.println("dev分支代码提交");
 	}
 	
 }
