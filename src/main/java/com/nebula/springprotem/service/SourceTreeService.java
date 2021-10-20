@@ -14,6 +14,9 @@ public class SourceTreeService {
 	 */
 	public static void main(String[] args) {
 		//再次测试回滚操作
+		for (int i = 0; i < 30; i++) {
+			System.out.println("循环次数："+i);
+		}
 	}
 	
 }
