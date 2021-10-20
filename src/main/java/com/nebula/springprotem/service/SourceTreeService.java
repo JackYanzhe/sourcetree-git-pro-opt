@@ -18,6 +18,7 @@ public class SourceTreeService {
 			System.out.println("循环次数："+i);
 		}
 		System.out.println("dev分支代码修改");
+		System.out.println("master分支代码提交");
 	}
 	
 }
